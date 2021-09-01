@@ -18,8 +18,8 @@
  
  <div>
   <a href="https://github.com/HenriqueUriel">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henriqueuriel&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueuriel&layout=compact&langs_count=7&theme=blueberry"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henriqueuriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueuriel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
  ##
