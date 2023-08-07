@@ -2,7 +2,7 @@
 
  - 📌 São Paulo-SP (🇧🇷)                                                              
 
--  📆 27 anos                                                                         
+-  📆 29 anos                                                                         
 
 - 🎓 Bacharel em Administração de Empresas                                            
 
